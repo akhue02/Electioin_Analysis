@@ -1,4 +1,4 @@
-# **Electioin_Analysis**
+# **Election_Analysis**
 ---
 # **Overview of the project**
 
