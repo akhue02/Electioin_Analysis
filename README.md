@@ -1,7 +1,9 @@
 # **Electioin_Analysis**
 ---
 # **Overview of the project**
+
 The analysis help a Colorado Board of Elections employee use python to audit the election results by getting a list of candidatees who received votes then Calculating the total number of votes cast, total number of votes each candidate received, the percentage of votes each candidate won, the amount of votes and percentage per county,  the counties with the largest county voter turnouts so that they could determine who is the winner of the election.
+
 ---
 # **Result** 
 * Total Votes: 369,711
